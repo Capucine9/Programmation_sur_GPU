@@ -1,6 +1,8 @@
-# Prime-Number-And-Factorization-CUDA
-Find if a number is prime and his factorization
+# Nombre premier et factorisation sur GPU avec CUDA
 
-To compile project use ./compil.bat
+Réalisé en coopération avec https://github.com/aikiboo
 
-To run project run ./prog {value} [useCPU(true/false)] [useGPU(true/false)] 
+Trouvé si le nombre est premier ainsi que sa factorisation.
+
+Pour compiler le projet : ./compil.bat
+Pour l'exécuter : ./prog {value} [useCPU(true/false)] [useGPU(true/false)]
